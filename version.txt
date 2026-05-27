@@ -1,0 +1,3 @@
+2.1
+https://your-server.com/ChurchMS_Update_v2.1.exe
+Version 2.1 - latest updates.
